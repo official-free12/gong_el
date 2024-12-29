@@ -1,0 +1,6 @@
+# 公证链贵族链代付功能/区块连/投资理财/交易所
+
+example.com，没演示的联系客服询问完在下单。<br>example.com，看客服有没有时间提供安装服务在下单，避免不必要的误会。<br>example.com，买之前联系客服看看演示进行测试，测试多久都行，客服会配合你，请确保要的是演示站这种在下单【所以务必测试完购买】。<br>example.com，且本站服务仅包括提供源码+安装，其他后台设置接口对接等请自行解决。不包含后台运营配置，接口对接，代码修改）<br>example.com。请不要下单，不要下单，不要下单,下单默认同意以上条款。<br>特此声明：本源码仅供源码爱好者学习交流使用，用途仅限于测试实验、研究学习为目的，严禁用于不合法用途，购买用户禁止将本产品使用于与中国法律相违背的一切行为，请遵守中国法律法规，不要触碰法律！否则，请不要购买，如果坚持购买并用于不合法用途，一切法律责任和所有后果均由购买方承担，与本店无关。<br>（购买就等同认同以上声明）<br>演示站地址http://example.com/;  账户13333333333 密码123456<br>example.com，现在修改的是购买不给返佣，需要下级购买每天领取的收益给上级百分之50可用余额，百分之45作为冻结，百分之5手续费<br>example.com，比如玩家的账号有XXXX10个币，那么用户可以登录APP 到外面的实体店超市，商城，饭店，进行扫码消费，操作流程是 登录APP看你账户有多少产量的币比如有100个币，换算是1:1 那么你就可以消费100元，点击付款，扫家的付款二维码，点击支付系统会扣除你的XXX币，这是商家的收款二维码会传送到你的网站管理员后台，你在后台进行扫码付款给商家，都是有语音播报的，<br>example.com<br>example.com<br>example.com<br>example.com（example.com.example.com）<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/qBNTr" style="color: red;">https://mega-file.org/qBNTr</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
